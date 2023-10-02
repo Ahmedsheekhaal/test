@@ -15,7 +15,7 @@ public class hallo : ControllerBase
     [HttpGet("of")]
     public IActionResult getof()
     {
-        return Ok("sheekhaal");
+        return Ok("Hamse");
     }
    
 }
